@@ -1,0 +1,16 @@
+# ---- Vivado ----
+# The projects are regenerated from vivado/create_project.tcl, so only the
+# heavy, machine-specific run output is ignored. The .xpr itself is kept.
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+.Xil/
+xsim.dir/
+*.jou
+*.str
+*.wdb
+*.pb
+*.log
